@@ -1,4 +1,4 @@
-## plot1.R
+## plot3.R
 ## Week 1 Exploratory Data Analysis Project
 
 ## load the data
